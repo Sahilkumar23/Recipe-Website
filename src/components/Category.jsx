@@ -8,7 +8,7 @@ const Category = () => {
         <div className="category-container">
             <NavLink to={'/cuisine/Italian'}>
                 <FaPizzaSlice />
-                <p>Italian</p>
+                <p>Indian</p>
             </NavLink>
             <NavLink to={'/cuisine/American'}>
                 <FaHamburger />
